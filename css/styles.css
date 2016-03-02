@@ -4,3 +4,6 @@
 	color: brown;
 	font-weight: bold;
 }
+li{
+	list-style: none;
+}
